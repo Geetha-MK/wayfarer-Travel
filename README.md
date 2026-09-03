@@ -1,4 +1,5 @@
 # Wayfarer — Travel Explorer
+![Uploading image.png…]()
 
 A travel web app for exploring destinations, checking live weather, discovering
 famous places, and planning a trip with an AI assistant. Built for the
