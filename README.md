@@ -1,5 +1,4 @@
 # Wayfarer — Travel Explorer
-![Uploading image.png…]()
 
 A travel web app for exploring destinations, checking live weather, discovering
 famous places, and planning a trip with an AI assistant. Built for the
@@ -9,6 +8,25 @@ Designesthetics front-end developer assignment.
 > destination page with weather + chat, itinerary result). Save them into
 > `docs/screenshots/` and reference them below, e.g.
 > `![Explore page](docs/screenshots/explore.png)`
+## Screenshots
+
+### Landing Page
+
+![Wayfarer Landing Page](![Uploading image.png…]()
+)
+
+### Destination Explorer
+
+![Wayfarer Explore Page](docs/screenshots/explore.png)
+
+### Destination Details
+
+![Destination Details with Weather and AI Chat](docs/screenshots/destination.png)
+
+### AI Itinerary Planner
+
+![AI Generated Itinerary](docs/screenshots/itinerary.png)
+
 
 ## Features
 
